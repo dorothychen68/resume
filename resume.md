@@ -11,8 +11,8 @@
 
 ## **Education**
 ** BS, Colorado School of Mines, Golden CO (May 2028)**
-	GPA
-	Relevant Coursework
+	- GPA
+	- Relevant Coursework
 
 ## **Experience**
 - **Math Grader** (August 2025 - present)
