@@ -28,8 +28,7 @@
 - Tools
 
 ## Image
-<img src="/Users/dott888/Mines/GPGN 268/work/classes/GPGN268/resume/Blastercard image.jpg" alt="A floating image" align="right">
+</Users/dott888/Mines/GPGN 268/work/classes/GPGN268/resume/Blastercard image.jpg>
 
 ## Hyperlink
 <https://www.mines.edu/>
-
