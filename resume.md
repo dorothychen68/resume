@@ -28,7 +28,7 @@
 - Tools
 
 ## Image
-![Alt text](/Users/dott888/Mines/GPGN 268/work/classes/GPGN268/resume/Blastercard image.jpg)
+<img src="/Users/dott888/Mines/GPGN 268/work/classes/GPGN268/resume/Blastercard image.jpg" alt="A floating image" align="right">
 
 ## Hyperlink
 <https://www.mines.edu/>
