@@ -28,7 +28,7 @@
 - Tools
 
 ## Image
-![Alt text](https://www.mines.edu/student-life/blastercard/)
+![Alt text](/Users/dott888/Mines/GPGN 268/work/classes/GPGN268/resume/Blastercard image.jpg)
 
 ## Hyperlink
 <https://www.mines.edu/>
